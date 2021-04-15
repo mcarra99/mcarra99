@@ -1,5 +1,5 @@
 - 👋 Hello everyone, I’m @mcarra99
-- 👀 I’m interested in Information Technology, Gaming and a little Magic
+- 👀 I’m interested in Information Technology, Gaming and a bit of Magic
 - 🌱 I’m currently learning Computer Science in University of Verona
 - 📫 How to reach me: mail, telegram
 
